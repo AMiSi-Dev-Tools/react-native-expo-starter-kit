@@ -22,19 +22,19 @@ Stop losing weeks stitching the same mobile foundations together from scratch.
 
 Most mobile apps need the same foundations before the real product work even begins:
 
-✓ Authentication
-✓ Onboarding
-✓ Protected app routes
-✓ Paywalls and subscriptions
-✓ Analytics and event tracking
-✓ Push notifications
-✓ Deep links
-✓ PIN + biometrics lock flow
-✓ Environments configuration
-✓ Scalable project structure
-✓ Reusable UI patterns
-✓ Production-ready developer workflow
-
+✓ Authentication  
+✓ Onboarding  
+✓ Protected app routes  
+✓ Paywalls and subscriptions  
+✓ Analytics and event tracking  
+✓ Push notifications  
+✓ Deep links  
+✓ PIN + biometrics lock flow  
+✓ Environments configuration  
+✓ Scalable project structure  
+✓ Reusable UI patterns  
+✓ Production-ready developer workflow  
+  
 AMiSi Mobile Starter gives you a clean, opinionated foundation so you can skip the repetitive setup and start building the product that actually matters.
 
 ---
