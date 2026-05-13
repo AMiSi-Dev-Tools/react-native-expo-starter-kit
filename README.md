@@ -4,6 +4,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img alt="Built with Expo" src="https://img.shields.io/badge/Expo-ready-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-mobile-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-included-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Production Ready" src="https://img.shields.io/badge/Production--ready-architecture-22C55E?style=for-the-badge" />
+</p>
+
 <h1 align="center">React Native Expo Starter Kit</h1>
 
 <p align="center">
@@ -211,7 +218,13 @@ Built around a modern Expo / React Native stack with:
 
 ---
 
-## Public preview
+## Preview
+
+<p align="center">
+  <img src="https://mobile-starter.amisi.ai/assets/images/screenshots/amisi-auth.png" width="30%" alt="AMiSi Mobile Starter auth preview" />
+  <img src="https://mobile-starter.amisi.ai/assets/images/screenshots/amisi-paywall.png" width="30%" alt="AMiSi Mobile Starter onboarding preview" />
+  <img src="https://mobile-starter.amisi.ai/assets/images/screenshots/amisi-overview.png" width="30%" alt="AMiSi Mobile Starter app preview" />
+</p>
 
 This repository does not contain the full commercial starter kit.
 
