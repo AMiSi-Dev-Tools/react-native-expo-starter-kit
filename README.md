@@ -1,14 +1,15 @@
 <p align="center">
-  <a href="https://mobile-starter.amisi.ai?utm_source=github">
+  <a href="https://mobile-starter.amisi.ai/">
     <img src="https://mobile-starter.amisi.ai/assets/images/promo-banner.png" width="100%" alt="AMiSi Mobile Starter promo banner" />
   </a>
 </p>
 
 <p align="center">
-  <img alt="Built with Expo" src="https://img.shields.io/badge/Expo-ready-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-mobile-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-included-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Production Ready" src="https://img.shields.io/badge/Production--ready-architecture-22C55E?style=for-the-badge" />
+  <img alt="Built with Expo" src="https://img.shields.io/badge/Expo-ready-000020?logo=expo&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-mobile-61DAFB?logo=react&logoColor=000" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-included-3178C6?logo=typescript&logoColor=white" />
+  <img alt="Production Ready" src="https://img.shields.io/badge/Production--ready-architecture-22C55E" />
+  <a href="https://github.com/AMiSi-Dev-Tools/react-native-expo-starter-kit/discussions"><img alt="Production Ready" src="https://img.shields.io/badge/GitHub-Discussions-2ea44f?logo=github" /></a>
 </p>
 
 <h1 align="center">React Native Expo Starter Kit</h1>
@@ -22,9 +23,13 @@
 </p>
 
 <p align="center">
-  <a href="https://mobile-starter.amisi.ai?utm_source=github"><strong>Get the full starter →</strong></a>
+  <a href="https://mobile-starter.amisi.ai/"><strong>🚀 Get the full starter →</strong></a>
   ·
-  <a href="https://mobile-starter.amisi.ai/docs?utm_source=github"><strong>Docs</strong></a>
+  <a href="https://mobile-starter.amisi.ai/docs"><strong>📄 Documentation</strong></a>
+  ·
+    <a href="https://github.com/AMiSi-Dev-Tools/react-native-expo-starter-kit/discussions">
+      <strong>💬 Browse public discussions</strong>
+    </a>
 </p>
 
 ---
@@ -221,7 +226,7 @@ Built around a modern Expo / React Native stack with:
 ## Preview
 
 <p align="center">
-  <a href="https://mobile-starter.amisi.ai?utm_source=github">
+  <a href="https://mobile-starter.amisi.ai/">
     <img src="https://mobile-starter.amisi.ai/assets/images/showcase-banner.png" width="100%" alt="AMiSi Mobile Starter showcase banner" />
   </a>
 </p>
@@ -231,7 +236,7 @@ This repository does not contain the full commercial starter kit.
 It exists to give developers a quick overview of what AMiSi Mobile Starter is and redirect interested users to the full product.
 
 <p align="center">
-  <a href="https://mobile-starter.amisi.ai?utm_source=github">
+  <a href="https://mobile-starter.amisi.ai/">
     <strong>Get AMiSi Mobile Starter →</strong>
   </a>
 </p>
@@ -243,10 +248,27 @@ It exists to give developers a quick overview of what AMiSi Mobile Starter is an
 Setup guides, architecture notes, and implementation details are available in the docs.
 
 <p align="center">
-  <a href="https://mobile-starter.amisi.ai/docs?utm_source=github">
+  <a href="https://mobile-starter.amisi.ai/docs">
     <strong>Read the docs →</strong>
   </a>
 </p>
+
+---
+
+## 💬 Join the Public Discussions
+
+Have questions about **AMiSi Mobile Starter** or want to see what others are building?
+
+Explore the public discussions:
+
+| Discussion | What it’s for |
+|---|---|
+| [❓ Is AMiSi Mobile Starter right for my project?](../../discussions) | Ask public pre-sales and product-fit questions |
+| [🚀 What are you building with AMiSi Mobile Starter?](../../discussions) | Share your app, MVP, or client project |
+| [💡 What should we add next?](../../discussions) | Suggest features, integrations, and improvements |
+| [🤖 Building mobile apps faster with AI-assisted development](../../discussions) | Talk about AI-assisted Expo / React Native workflows |
+
+Private technical setup support is handled in the customer Discord community.
 
 ---
 
