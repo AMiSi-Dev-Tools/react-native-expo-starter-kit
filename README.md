@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mobile-starter.amisi.ai/assets/images/promo-banner.png" width="100%" alt="AMiSi" />
+  <img src="https://mobile-starter.amisi.ai/assets/images/promo-banner.png" width="100%" alt="AMiSi mobile starter promo banner" />
 </p>
 
 # AMiSi Mobile Starter
