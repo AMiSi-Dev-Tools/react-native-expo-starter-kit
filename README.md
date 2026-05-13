@@ -221,9 +221,9 @@ Built around a modern Expo / React Native stack with:
 ## Preview
 
 <p align="center">
-  <img src="https://mobile-starter.amisi.ai/assets/images/screenshots/amisi-auth.png" width="30%" alt="AMiSi Mobile Starter auth preview" />
-  <img src="https://mobile-starter.amisi.ai/assets/images/screenshots/amisi-paywall.png" width="30%" alt="AMiSi Mobile Starter onboarding preview" />
-  <img src="https://mobile-starter.amisi.ai/assets/images/screenshots/amisi-overview.png" width="30%" alt="AMiSi Mobile Starter app preview" />
+  <a href="https://mobile-starter.amisi.ai/">
+    <img src="https://mobile-starter.amisi.ai/assets/images/showcase-banner.png" width="100%" alt="AMiSi Mobile Starter showcase banner" />
+  </a>
 </p>
 
 This repository does not contain the full commercial starter kit.
