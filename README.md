@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mobile-starter.amisi.ai/">
+  <a href="https://mobile-starter.amisi.ai?utm_source=github">
     <img src="https://mobile-starter.amisi.ai/assets/images/promo-banner.png" width="100%" alt="AMiSi Mobile Starter promo banner" />
   </a>
 </p>
@@ -22,9 +22,9 @@
 </p>
 
 <p align="center">
-  <a href="https://mobile-starter.amisi.ai/"><strong>Get the full starter →</strong></a>
+  <a href="https://mobile-starter.amisi.ai?utm_source=github"><strong>Get the full starter →</strong></a>
   ·
-  <a href="https://mobile-starter.amisi.ai/docs"><strong>Docs</strong></a>
+  <a href="https://mobile-starter.amisi.ai/docs?utm_source=github"><strong>Docs</strong></a>
 </p>
 
 ---
@@ -221,7 +221,7 @@ Built around a modern Expo / React Native stack with:
 ## Preview
 
 <p align="center">
-  <a href="https://mobile-starter.amisi.ai/">
+  <a href="https://mobile-starter.amisi.ai?utm_source=github">
     <img src="https://mobile-starter.amisi.ai/assets/images/showcase-banner.png" width="100%" alt="AMiSi Mobile Starter showcase banner" />
   </a>
 </p>
@@ -231,7 +231,7 @@ This repository does not contain the full commercial starter kit.
 It exists to give developers a quick overview of what AMiSi Mobile Starter is and redirect interested users to the full product.
 
 <p align="center">
-  <a href="https://mobile-starter.amisi.ai/">
+  <a href="https://mobile-starter.amisi.ai?utm_source=github">
     <strong>Get AMiSi Mobile Starter →</strong>
   </a>
 </p>
@@ -243,7 +243,7 @@ It exists to give developers a quick overview of what AMiSi Mobile Starter is an
 Setup guides, architecture notes, and implementation details are available in the docs.
 
 <p align="center">
-  <a href="https://mobile-starter.amisi.ai/docs">
+  <a href="https://mobile-starter.amisi.ai/docs?utm_source=github">
     <strong>Read the docs →</strong>
   </a>
 </p>
