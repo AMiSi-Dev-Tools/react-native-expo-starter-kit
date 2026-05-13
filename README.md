@@ -62,7 +62,7 @@ The full starter includes the complete source code, setup guides, documentation,
 
 <br />
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th align="left">Component</th>
