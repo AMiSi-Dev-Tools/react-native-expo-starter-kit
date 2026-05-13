@@ -4,128 +4,180 @@
   </a>
 </p>
 
-# React Native Expo Starter Kit
+<h1 align="center">React Native Expo Starter Kit</h1>
 
-**AMiSi Mobile Starter** is a premium Expo & React Native boilerplate for launching production-ready mobile apps faster.
+<p align="center">
+  Production-ready Expo & React Native boilerplate for building mobile apps faster.
+</p>
 
-It gives you a serious app foundation with authentication, onboarding, protected routing, subscriptions, analytics, push notifications, deep links, app bootstrapping, reusable UI patterns, and scalable architecture already wired together.
-
-Stop spending weeks rebuilding the same mobile app setup from scratch.
+<p align="center">
+  Auth · Onboarding · Subscriptions · Analytics · Push Notifications · Deep Links · App Architecture
+</p>
 
 <p align="center">
   <a href="https://mobile-starter.amisi.ai/"><strong>Get the full starter →</strong></a>
   ·
-  <a href="https://mobile-starter.amisi.ai/docs"><strong>Read the docs</strong></a>
+  <a href="https://mobile-starter.amisi.ai/docs"><strong>Docs</strong></a>
 </p>
 
 ---
 
-## Public preview
+## What is this?
 
-This repository is a public preview and discovery page for **AMiSi Mobile Starter**.
+**AMiSi Mobile Starter** is a premium Expo & React Native starter kit for developers, founders, agencies, and product teams who want to launch serious mobile apps without rebuilding the same foundation from scratch.
 
-The complete source code, setup guides, documentation, and future updates are available with the full starter.
+This public repository is a preview and entry point.
+
+The full starter includes the complete source code, setup guides, documentation, and future updates.
+
+---
+
+## Why use it?
+
+| Without AMiSi | With AMiSi Mobile Starter |
+| --- | --- |
+| Spend days wiring auth, routing, billing, analytics, notifications, and app state | Start from a production-minded mobile foundation |
+| Rebuild the same setup for every new app | Reuse a clean architecture across projects |
+| Mix business logic directly into screens | Keep integrations behind adapters and typed boundaries |
+| Ship a quick demo, then rewrite later | Start with a structure that can grow into production |
+
+---
+
+## How much time does it save?
 
 <p align="center">
-  <a href="https://mobile-starter.amisi.ai/">
-    <strong>Buy AMiSi Mobile Starter →</strong>
-  </a>
+  <strong>Buy a starter kit. Skip months of infrastructure work.</strong>
 </p>
 
+<p align="center">
+  <em>See how much time agencies, founders, and builders can save by starting from a production-ready Expo foundation instead of building every core system from scratch.</em>
+</p>
+
+<br />
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Component</th>
+      <th align="left">Build yourself</th>
+      <th align="left">With AMiSi Mobile Starter</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Authentication</strong><br /><sub>Email, OAuth, session state, protected access</sub></td>
+      <td>🔴 2–4 weeks</td>
+      <td>🟢 Included</td>
+    </tr>
+    <tr>
+      <td><strong>Routing & guarded routes</strong><br /><sub>Tabs, stacks, public/private areas, app guards</sub></td>
+      <td>🔴 2–3 weeks</td>
+      <td>🟢 Included</td>
+    </tr>
+    <tr>
+      <td><strong>Onboarding flow</strong><br /><sub>Reusable onboarding screens and app-entry logic</sub></td>
+      <td>🟠 1–2 weeks</td>
+      <td>🟢 Included</td>
+    </tr>
+    <tr>
+      <td><strong>Subscription billing</strong><br /><sub>Paywall foundation, entitlement-aware access</sub></td>
+      <td>🔴 2–3 weeks</td>
+      <td>🟢 Included</td>
+    </tr>
+    <tr>
+      <td><strong>Analytics structure</strong><br /><sub>Event tracking patterns and integration boundaries</sub></td>
+      <td>🟠 1–2 weeks</td>
+      <td>🟢 Included</td>
+    </tr>
+    <tr>
+      <td><strong>Push notifications</strong><br /><sub>Notification setup foundations and app integration patterns</sub></td>
+      <td>🔴 2–3 weeks</td>
+      <td>🟢 Included</td>
+    </tr>
+    <tr>
+      <td><strong>Deep linking</strong><br /><sub>Universal/app link patterns and route handling helpers</sub></td>
+      <td>🟠 1–2 weeks</td>
+      <td>🟢 Included</td>
+    </tr>
+    <tr>
+      <td><strong>Multi-environment config</strong><br /><sub>Development, preview, production configuration patterns</sub></td>
+      <td>🔴 2–3 weeks</td>
+      <td>🟢 Included</td>
+    </tr>
+    <tr>
+      <td><strong>Reusable UI foundations</strong><br /><sub>App-ready screens, components, and design patterns</sub></td>
+      <td>🔴 2–3 weeks</td>
+      <td>🟢 Included</td>
+    </tr>
+    <tr>
+      <td><strong>App boot flow</strong><br /><sub>Provider setup, loading states, access checks, app readiness</sub></td>
+      <td>🟠 1–2 weeks</td>
+      <td>🟢 Included</td>
+    </tr>
+    <tr>
+      <td><strong>Architecture & package boundaries</strong><br /><sub>Modular structure designed to scale beyond MVP</sub></td>
+      <td>🔴 2–4 weeks</td>
+      <td>🟢 Included</td>
+    </tr>
+    <tr>
+      <td><strong>Maintenance patterns</strong><br /><sub>Upgrades, dependency updates, fixes, and best-practice structure</sub></td>
+      <td>🟠 Ongoing</td>
+      <td>🟢 Included</td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+<table>
+  <tr>
+    <td width="33%">
+      <p>🔴 Build from scratch</p>
+      <h3><strong>3–6 months typical</strong></h3>
+      <p>500+ hours of development across setup, integration, testing, fixes, and rewrites.</p>
+    </td>
+    <td width="33%">
+      <p>🟢 With starter kit</p>
+      <h3><strong>Start on Day 1</strong></h3>
+      <p>Begin building product features immediately on top of a ready mobile foundation.</p>
+    </td>
+    <td width="33%">
+      <p>💰 Estimated savings</p>
+      <h3><strong>$15,000 – $50,000+</strong></h3>
+      <p>Saved developer time, agency cost, opportunity cost, and reduced setup risk.</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
-## Build the app, not the boilerplate
+## What’s included in the full starter?
 
-Most mobile products need the same foundations before you can even start building the real product:
-
-- Authentication
-- Onboarding
-- Protected routes
-- App boot flow
-- Email verification flow
-- PIN and biometrics lock flow
-- Paywalls and subscriptions
-- Analytics and event tracking
-- Push notifications
-- Deep links
-- Environment configuration
-- Reusable UI patterns
-- Feature flags
-- Scalable project structure
-- Production-ready developer workflow
-
-**AMiSi Mobile Starter gives you those foundations upfront**, so you can focus on your actual product instead of stitching the same setup together again and again.
+| Area | Included |
+| --- | --- |
+| App architecture | Expo + React Native structure, modular packages, clean boundaries |
+| Navigation | Expo Router, protected routes, guards, typed route patterns |
+| Auth flows | Auth-ready screens, verification states, authenticated app areas |
+| Onboarding | Reusable onboarding flow foundation |
+| Subscriptions | Paywall and subscription access foundations |
+| Analytics | Analytics-ready structure and event tracking patterns |
+| Notifications | Push notification integration foundations |
+| Deep linking | Helpers and patterns for universal/app links |
+| App boot flow | Provider-based startup, app state, loading and access control |
+| UI system | Reusable UI components and app-ready screens |
+| Config | Centralized environment and feature flag setup |
+| AI workflow | Structure designed to work well with AI coding tools |
 
 ---
 
-## Why use AMiSi Mobile Starter?
+## Built for
 
-### Ship faster
-
-Start from a working, production-minded Expo foundation instead of spending your first weeks setting up routing, auth, subscriptions, analytics, notifications, and app structure.
-
-### Avoid messy rewrites
-
-The starter is built with modular boundaries from day one, so your app can grow beyond an MVP without turning into an unmaintainable codebase.
-
-### Use adapter-based integrations
-
-Auth, analytics, subscriptions, and notifications are structured around adapters, so you can customize or swap providers without rewriting your screen-level app logic.
-
-### Build real product flows
-
-AMiSi is focused on the things real apps need: guarded routes, app bootstrapping, onboarding, verification states, subscription access, deep links, and production-ready architecture.
-
-### Work better with AI tools
-
-Clear package boundaries, predictable file structure, typed contracts, and reusable patterns make the project easier to extend with AI coding tools, teammates, or future contributors.
-
----
-
-## Who it is for
-
-### Founders
-
-Launch a credible mobile MVP faster without burning your first weeks on app plumbing.
-
-### Agencies
-
-Start client projects from a repeatable foundation instead of rebuilding the same mobile setup every time.
-
-### React Native developers
-
-Use a clean Expo architecture with typed navigation, guarded routes, modular packages, provider-based bootstrapping, and production-minded defaults.
-
-### Product teams
-
-Move faster with a maintainable base that can grow from MVP to production.
-
----
-
-## What’s included in the full starter
-
-The full AMiSi Mobile Starter includes foundations for:
-
-- Expo + React Native app architecture
-- Expo Router navigation
-- Authentication-ready flows
-- Protected routing and access guards
-- Onboarding flow
-- Email verification flow
-- PIN and biometrics lock flow
-- Subscription and paywall foundations
-- Analytics integration foundations
-- Push notification foundations
-- Deep linking helpers
-- App state and bootstrapping flow
-- Reusable UI components
-- Centralized configuration
-- Feature flags
-- Modular monorepo structure
-- Clean package boundaries
-- AI-assisted development workflow support
-
-It is designed to be customized, extended, and shipped — not just opened as a demo.
+| Use case | Why it helps |
+| --- | --- |
+| Founders | Launch a credible MVP faster |
+| Agencies | Start client apps from a repeatable base |
+| React Native developers | Skip repetitive setup and use a cleaner architecture |
+| Product teams | Build on a foundation that can scale beyond the first version |
 
 ---
 
@@ -135,11 +187,10 @@ It is designed to be customized, extended, and shipped — not just opened as a 
 - Freemium access
 - User accounts
 - Onboarding flows
-- Authenticated app areas
 - Paywalls
 - Push notifications
 - Deep links
-- Analytics-driven product decisions
+- Analytics
 - Premium mobile UX
 - Scalable Expo architecture
 
@@ -147,53 +198,24 @@ It is designed to be customized, extended, and shipped — not just opened as a 
 
 ## Tech focus
 
-AMiSi Mobile Starter is built around a modern Expo and React Native architecture.
+Built around a modern Expo / React Native stack with:
 
-Core ideas include:
-
-- Typed navigation
-- Guarded routes
+- Expo Router
+- TypeScript
+- Modular monorepo structure
 - Provider-based bootstrapping
 - Adapter-based services
-- Reusable feature modules
+- Guarded routes
 - Centralized configuration
-- Modular package boundaries
-- Production-ready app structure
+- Reusable feature modules
 
 ---
 
-## What you save
+## Public preview
 
-Instead of spending days or weeks wiring together the same foundations, you start with a structured mobile app base that already thinks about:
+This repository does not contain the full commercial starter kit.
 
-- how users enter the app
-- how access is protected
-- how onboarding connects to the app experience
-- how subscription state affects routing
-- how analytics can be added cleanly
-- how notifications can be integrated
-- how deep links should be handled
-- how the app should scale as the codebase grows
-
-That means faster launches, fewer rewrites, and a cleaner starting point for real product work.
-
----
-
-## Documentation
-
-The docs include setup guidance, architecture notes, package structure, and implementation details.
-
-<p align="center">
-  <a href="https://mobile-starter.amisi.ai/docs">
-    <strong>Read the docs →</strong>
-  </a>
-</p>
-
----
-
-## Get the full starter
-
-Want to launch faster with a serious Expo & React Native foundation?
+It exists to give developers a quick overview of what AMiSi Mobile Starter is and redirect interested users to the full product.
 
 <p align="center">
   <a href="https://mobile-starter.amisi.ai/">
@@ -203,6 +225,18 @@ Want to launch faster with a serious Expo & React Native foundation?
 
 ---
 
+## Documentation
+
+Setup guides, architecture notes, and implementation details are available in the docs.
+
+<p align="center">
+  <a href="https://mobile-starter.amisi.ai/docs">
+    <strong>Read the docs →</strong>
+  </a>
+</p>
+
+---
+
 ## Keywords
 
-`react-native` · `expo` · `expo-router` · `mobile-app` · `starter-kit` · `boilerplate` · `typescript` · `subscriptions` · `analytics` · `push-notifications` · `deep-linking` · `mobile-saas` · `app-template` · `react-native-template` · `expo-template`
+`react-native` · `expo` · `expo-router` · `mobile-app` · `starter-kit` · `boilerplate` · `typescript` · `subscriptions` · `analytics` · `push-notifications` · `deep-linking` · `mobile-saas` · `app-template`
